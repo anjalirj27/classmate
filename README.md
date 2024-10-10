@@ -1,2 +1,2 @@
 # classmate
-This is for Git &amp; GitHub.
+This is for Git &amp; GitHub class.
